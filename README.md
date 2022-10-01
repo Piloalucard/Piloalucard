@@ -6,3 +6,6 @@
 - ✔️Python
 - ✔️HTML/CSS/PHP
 - ✔️Assembly MIPS/8085/HC12
+- ✔️Dart
+- ✔️PostgreSQL
+- ✔️MySQL
