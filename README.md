@@ -2,7 +2,7 @@
 - 🟢C
 - 🟢C++
 - ⚪C#
-- 🟡Java
+- 🟢Java
 - 🔴JavaScript/every new JS framework that is created every 5 minutes (Vue/Angular/React/Node)
 - 🟡Verilog
 - ⚪Python
