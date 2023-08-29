@@ -1,7 +1,7 @@
 # Nunca dejes de cuestionarte, y nunca dejes de automatizar todo
 - 🟢C
 - 🟢C++
-- ⚪C#
+- ⚪C# - Current Job 
 - 🟢Java
 - 🔴JavaScript/every new JS framework that is created every 5 minutes (Vue/Angular/React/Node)
 - 🟡Verilog
