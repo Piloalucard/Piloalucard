@@ -29,7 +29,9 @@
 
 ### Jobs
 
-**2019 July - 2019 October** \ 
-Web developer @ *Twin Connection* /
-**2023 June - Current** /
+**2019 July - 2019 October** \
+Web developer @ *Twin Connection* \
+**2022 July - 2023 April \
+IT Support @ *Centro Universitario de Ciencias Exactas e Ingenierías*
+**2023 June - Current** \
 Software Engineer & Back-End Developer @ *LiveGuardTech*
