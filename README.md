@@ -29,8 +29,7 @@
 
 ### Jobs
 
-**2019 July - 2019 October** / 
-Web developer @ *Twin Connection*
-/ 
-**2023 June - Current** / 
+**2019 July - 2019 October** /
+Web developer @ *Twin Connection* /
+**2023 June - Current** /
 Software Engineer & Back-End Developer @ *LiveGuardTech*
