@@ -1,6 +1,6 @@
 # Nunca dejes de cuestionarte, y nunca dejes de automatizar todo
 
-### Tecnologies
+### Technologies
 - 🟢C
 - 🟢C++
 - ⚪C# - [Current Job] 
