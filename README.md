@@ -3,13 +3,13 @@
 ### Technologies
 - 🟢C
 - 🟢C++
-- ⚪C# - [Current Job] 
+- ⚪C#
 - 🟡Java
 - 🔴JavaScript/every new JS framework that is created every 5 minutes (Vue/Angular/React/Node)
 - 🟡Verilog
 - 🟢Python
 - 🟢HTML/CSS
-- PHP
+- 🟡PHP
 - 🟡Assembly MIPS/8085/HC12
 - 🟡Dart
 - 🟢PostgreSQL
@@ -33,5 +33,5 @@
 Web developer @ *Twin Connection* \
 **2022 July - 2023 April** \
 IT Support @ *Centro Universitario de Ciencias Exactas e Ingenierías* \
-**2023 June - Current** \
+**2023 June - 2024 April** \
 Software Engineer & Back-End Developer @ *LiveGuardTech*
