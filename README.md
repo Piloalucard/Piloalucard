@@ -1,7 +1,7 @@
 # Nunca dejes de cuestionarte, y nunca dejes de automatizar todo
 
 ### Technologies
-- 🟢C
+- 🟢C - [Current Job]
 - 🟢C++
 - ⚪C#
 - 🟡Java
@@ -14,7 +14,9 @@
 - 🟡Dart
 - 🟢PostgreSQL
 - 🟢MySQL
-- 🟢SQL Server - [Current Job]
+- 🟢SQL Server
+- 🟡Batch Scripting
+- 🟡Bash Scripting
 
 ### Design Patterns
 - 🟢Model-View-Controller 
@@ -35,3 +37,5 @@ Web developer @ *Twin Connection* \
 IT Support @ *Centro Universitario de Ciencias Exactas e Ingenierías* \
 **2023 June - 2024 April** \
 Software Engineer & Back-End Developer @ *LiveGuardTech*
+**2024 May** \
+Back-End Developer @ *IBM*  👁️🐝Ⓜ️
