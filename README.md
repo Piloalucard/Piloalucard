@@ -36,6 +36,6 @@ Web developer @ *Twin Connection* \
 **2022 July - 2023 April** \
 IT Support @ *Centro Universitario de Ciencias Exactas e Ingenierías* \
 **2023 June - 2024 April** \
-Software Engineer & Back-End Developer @ *LiveGuardTech*
+Software Engineer & Back-End Developer @ *LiveGuardTech* \
 **2024 May** \
 Back-End Developer @ *IBM*  👁️🐝Ⓜ️
