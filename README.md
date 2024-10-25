@@ -1,7 +1,7 @@
 # Nunca dejes de cuestionarte, y nunca dejes de automatizar todo
 
 ### Technologies
-- 🟢C - [Current Job]
+- ⚪C - [Current Job]
 - 🟢C++
 - ⚪C#
 - 🟡Java
@@ -37,5 +37,5 @@ Web developer @ *Twin Connection* \
 IT Support @ *Centro Universitario de Ciencias Exactas e Ingenierías* \
 **2023 June - 2024 April** \
 Software Engineer & Back-End Developer @ *LiveGuardTech* \
-**2024 May** \
+**2024 May - CURRENT**\
 Back-End Developer @ *IBM*  👁️🐝Ⓜ️
