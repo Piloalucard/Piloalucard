@@ -1,4 +1,5 @@
 # Nunca dejes de cuestionarte, y nunca dejes de automatizar todo
+# Do not let them harvest real data, start generating garbage data, greedy capitalism will fall
 
 ### Technologies
 - ⚪C - [Current Job]
